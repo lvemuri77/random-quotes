@@ -1,0 +1,47 @@
+body{
+	background-color:#fb6964;
+	font-size:14px;
+	color: #fb6964;
+  	font-family: 'Lato', sans-serif;
+}
+
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+	top:200px;
+}
+.content-box{
+	background-color:#fff;
+	width: 100%;
+	height: 250px;
+	border-radius: 5px;
+
+}
+#getQuote{
+	position: absolute;
+	top:200px;
+	right: 80px;
+	color:#fff;
+	background-color: #fb6964;
+}
+
+#getQuote:hover{
+	background-color:#fc8785;
+}
+#quoted-text{
+	font-family: monospace;
+	font-size: 20px;
+}
+#quoted-text p{
+		padding:20px;
+
+}
+.button{
+	color: #fb6964;
+    float: left;
+    margin-left: 100px;
+}
+.button:hover{
+	color:#fc8785;
+}
